@@ -1,0 +1,55 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+    <div class="text-center">
+        <h1 class="display-4">Welcome</h1>
+        <p>Kloteh Somah Tax Service</p>
+
+        <form method="post">
+            <div class="container align-middle">
+                <div class="col-md-8 offset-md-2">
+                    <input asp-for="Input.Street" id="email" class="form-control" placeholder="Address" required>
+                </div>
+                <br />
+                <div class="col-md-8 offset-md-2">
+                    <input asp-for="Input.City" id="email" class="form-control" placeholder="City" required>
+                </div>
+                <br />
+                <div class="col-md-8 offset-md-2">
+                    <input asp-for="Input.State" id="email" maxlength="2" class="form-control" placeholder="State" required>
+                </div>
+                <br />
+                <div class="col-md-8 offset-md-2">
+                    <input asp-for="Input.Zip" id="email" class="form-control" placeholder="Zip" required>
+                </div>
+                <br />
+                <div class="col-md-8 offset-md-2">
+                    <input asp-for="Input.Country" maxlength="2" class="form-control" placeholder="Country" value="US" required>
+                </div>
+                <br />
+                <div class="col-md-8 offset-md-2">
+                    <input asp-for="Input.Amount" type="number" class="form-control" placeholder="Amount" required>
+                </div>
+                <br />
+                <div class="col-md-8 offset-md-2">
+                    <input asp-for="Input.ShippingAmount" class="form-control" placeholder="Shipping Amount" required>
+                </div>
+                <br />
+                <div class="col-md-8 offset-md-2">
+                    <button type="submit" class="btn btn-primary btn-block"> Calculate Tax</button>
+                </div>
+                <div class="col-md-8 offset-md-2">
+                    <br />
+                    <span><b>@Model.RateByZip</b></span>
+                    <br />
+                    <span><b>@Model.OrderTaxRate</b></span>
+                </div>
+                <br />
+            </div>
+                        
+        </form>
+
+    </div>

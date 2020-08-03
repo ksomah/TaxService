@@ -1,0 +1,17 @@
+C:\Users\klsomah\source\repos\IMC_CodeTest\KSomah.TaxService.Data\bin\Debug\netstandard2.0\KSomah.TaxService.Data.deps.json
+C:\Users\klsomah\source\repos\IMC_CodeTest\KSomah.TaxService.Data\bin\Debug\netstandard2.0\KSomah.TaxService.Data.dll
+C:\Users\klsomah\source\repos\IMC_CodeTest\KSomah.TaxService.Data\bin\Debug\netstandard2.0\KSomah.TaxService.Data.pdb
+C:\Users\klsomah\source\repos\IMC_CodeTest\KSomah.TaxService.Data\obj\Debug\netstandard2.0\KSomah.TaxService.Data.AssemblyInfoInputs.cache
+C:\Users\klsomah\source\repos\IMC_CodeTest\KSomah.TaxService.Data\obj\Debug\netstandard2.0\KSomah.TaxService.Data.AssemblyInfo.cs
+C:\Users\klsomah\source\repos\IMC_CodeTest\KSomah.TaxService.Data\obj\Debug\netstandard2.0\KSomah.TaxService.Data.dll
+C:\Users\klsomah\source\repos\IMC_CodeTest\KSomah.TaxService.Data\obj\Debug\netstandard2.0\KSomah.TaxService.Data.pdb
+C:\Users\klsomah\source\repos\IMC_CodeTest\KSomah.TaxService.Data\obj\Debug\netstandard2.0\KSomah.TaxService.Data.csproj.CoreCompileInputs.cache
+C:\Users\klsomah\source\repos\TaxService\KSomah.TaxService.Data\bin\Debug\netstandard2.0\KSomah.TaxService.Data.deps.json
+C:\Users\klsomah\source\repos\TaxService\KSomah.TaxService.Data\bin\Debug\netstandard2.0\KSomah.TaxService.Data.dll
+C:\Users\klsomah\source\repos\TaxService\KSomah.TaxService.Data\bin\Debug\netstandard2.0\KSomah.TaxService.Data.pdb
+C:\Users\klsomah\source\repos\TaxService\KSomah.TaxService.Data\obj\Debug\netstandard2.0\KSomah.TaxService.Data.csprojAssemblyReference.cache
+C:\Users\klsomah\source\repos\TaxService\KSomah.TaxService.Data\obj\Debug\netstandard2.0\KSomah.TaxService.Data.AssemblyInfoInputs.cache
+C:\Users\klsomah\source\repos\TaxService\KSomah.TaxService.Data\obj\Debug\netstandard2.0\KSomah.TaxService.Data.AssemblyInfo.cs
+C:\Users\klsomah\source\repos\TaxService\KSomah.TaxService.Data\obj\Debug\netstandard2.0\KSomah.TaxService.Data.csproj.CoreCompileInputs.cache
+C:\Users\klsomah\source\repos\TaxService\KSomah.TaxService.Data\obj\Debug\netstandard2.0\KSomah.TaxService.Data.dll
+C:\Users\klsomah\source\repos\TaxService\KSomah.TaxService.Data\obj\Debug\netstandard2.0\KSomah.TaxService.Data.pdb

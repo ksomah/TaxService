@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+B67J20AlyQX4Egtwhy2lesSrWnetH1OchlwgMkq6a3QqiSSM1/VBxidedeU8TpwQpejGiF92zXaUhOlBI+Hgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\klsomah\\source\\repos\\TaxService\\KSomah.TaxService\\KSomah.TaxService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\klsomah\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
